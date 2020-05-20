@@ -1,2 +1,2 @@
-# AutoFaceNet-Keras
-Using CAE for represent learning the face images then create a NN for binary classification => Face verification task 
+# Siamese implementation 
+Using identical CNN to map the face images to euclide space a for binary classification => Face verification task 
